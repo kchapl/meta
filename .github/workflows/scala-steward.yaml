@@ -13,7 +13,7 @@ jobs:
       - name: Launch Scala Steward
 #        uses: scala-steward-org/scala-steward-action@v2
 #        uses: scala-steward-org/scala-steward-action@master
-        uses: scala-steward-org/scala-steward-action@mv2.52.0
+        uses: scala-steward-org/scala-steward-action@v2.52.0
         with:
           repos-file: repos.md
           author-name: kchapl
