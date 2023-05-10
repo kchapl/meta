@@ -11,8 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Launch Scala Steward
-#        uses: scala-steward-org/scala-steward-action@v2
-#        uses: scala-steward-org/scala-steward-action@master
         uses: scala-steward-org/scala-steward-action@v2.52.0
         with:
           repos-file: repos.md
