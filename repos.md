@@ -1,3 +1,0 @@
-- kchapl/energy-analysis
-- kchapl/booklet
-- kchapl/book-log
