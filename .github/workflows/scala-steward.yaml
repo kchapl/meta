@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Launch Scala Steward
-        uses: scala-steward-org/scala-steward-action@v2.65.0
+        uses: scala-steward-org/scala-steward-action@v2
         with:
           author-name: kchapl
           author-email: kchapl@users.noreply.github.com
